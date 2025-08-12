@@ -1,6 +1,9 @@
--JS Calculator Project
+JS Calculator Project
+
 A simple calculator built with Node.js, Express, and an MVC architecture.
--Features:
+
+Features:
+
 *Addition, subtraction, multiplication, and division of two numbers
 *Input via HTML form
 

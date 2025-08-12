@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Логове
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Операционни системи
+.DS_Store
+Thumbs.db
+
+# IDE/редактори
+.vscode/
+.idea/
+
+# Environment файлове (ако ползваш)
+.env
+.env.local
+.env.*.local
